@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f84df7d3-a7df-4124-95de-6e767d2d3c60" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/fb/javathreadpool/ThreadPoolServiceTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javaThreadPool.iml" afterPath="$PROJECT_DIR$/javaThreadPool.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/ThreadPoolService.java" afterPath="$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/ThreadPoolService.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,14 +29,14 @@
       <file leaf-file-name="ThreadPoolService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/ThreadPoolService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="75" column="42" lean-forward="true" selection-start-line="75" selection-start-column="42" selection-end-line="75" selection-end-column="42" />
+            <state relative-caret-position="423">
+              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#877#883#0" expanded="true" />
-                <element signature="e#1009#1019#0" expanded="true" />
-                <element signature="e#2625#2626#0" expanded="true" />
-                <element signature="e#2664#2665#0" expanded="true" />
+                <element signature="e#740#746#0" expanded="true" />
+                <element signature="e#872#882#0" expanded="true" />
+                <element signature="e#2488#2489#0" expanded="true" />
+                <element signature="e#2527#2528#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,9 +91,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/ThreadPoolService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/Task.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/fb/javathreadpool/ThreadPoolServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/ThreadPoolService.java" />
       </list>
     </option>
   </component>
@@ -343,7 +339,7 @@
       <workItem from="1535259828747" duration="1024000" />
       <workItem from="1535340307887" duration="222000" />
       <workItem from="1535423797667" duration="759000" />
-      <workItem from="1540781052409" duration="2094000" />
+      <workItem from="1540781052409" duration="2544000" />
     </task>
     <servers />
   </component>
@@ -353,7 +349,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5932000" />
+    <option name="totallyTimeSpent" value="6382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -414,10 +410,10 @@
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#877#883#0" expanded="true" />
-            <element signature="e#1009#1019#0" expanded="true" />
-            <element signature="e#2625#2626#0" expanded="true" />
-            <element signature="e#2664#2665#0" expanded="true" />
+            <element signature="e#740#746#0" expanded="true" />
+            <element signature="e#872#882#0" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+            <element signature="e#2527#2528#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -436,10 +432,10 @@
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#877#883#0" expanded="true" />
-            <element signature="e#1009#1019#0" expanded="true" />
-            <element signature="e#2625#2626#0" expanded="true" />
-            <element signature="e#2664#2665#0" expanded="true" />
+            <element signature="e#740#746#0" expanded="true" />
+            <element signature="e#872#882#0" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+            <element signature="e#2527#2528#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -458,10 +454,10 @@
           <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#877#883#0" expanded="true" />
-            <element signature="e#1009#1019#0" expanded="true" />
-            <element signature="e#2625#2626#0" expanded="true" />
-            <element signature="e#2664#2665#0" expanded="true" />
+            <element signature="e#740#746#0" expanded="true" />
+            <element signature="e#872#882#0" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+            <element signature="e#2527#2528#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -499,14 +495,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fb/javathreadpool/ThreadPoolService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="75" column="42" lean-forward="true" selection-start-line="75" selection-start-column="42" selection-end-line="75" selection-end-column="42" />
+        <state relative-caret-position="423">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#877#883#0" expanded="true" />
-            <element signature="e#1009#1019#0" expanded="true" />
-            <element signature="e#2625#2626#0" expanded="true" />
-            <element signature="e#2664#2665#0" expanded="true" />
+            <element signature="e#740#746#0" expanded="true" />
+            <element signature="e#872#882#0" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+            <element signature="e#2527#2528#0" expanded="true" />
           </folding>
         </state>
       </provider>

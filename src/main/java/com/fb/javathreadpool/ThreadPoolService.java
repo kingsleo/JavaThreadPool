@@ -1,11 +1,7 @@
 package com.fb.javathreadpool;
 
-import java.util.Collection;
-import java.util.Iterator;
 import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
-import java.util.concurrent.TimeUnit;
 
 /**
  * 线程服务类
